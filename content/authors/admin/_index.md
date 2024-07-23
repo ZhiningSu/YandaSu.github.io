@@ -3,7 +3,7 @@
 title: 苏彦达（Margaret）
 
 # Name pronunciation (optional)
-name_pronunciation: Margaret Yanda Su
+name_pronunciation:Yanda Su
 
 # Full name (for SEO)
 first_name: Su
@@ -25,7 +25,7 @@ role: Master
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: XMU
-    url: 
+    url: https://wise.xmu.edu.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,19 +52,19 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.A. Finance
+    institution: Xiamen University
+    date_start: 2022-09-01
+    date_end: 2025-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Xialiang Zhao]([https://faculty.xmu.edu.cn/ZXL123456/zh_CN/index.htm]). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. Insurance
+    institution: Southwestern University of Finance and Economics
+    date_start: 2018-09-01
+    date_end: 2023-06-15
     summary: |
       GPA: 3.7/4.0
 
