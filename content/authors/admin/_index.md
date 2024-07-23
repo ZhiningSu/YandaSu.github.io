@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 苏彦达（Margaret）
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Margaret Yanda Su
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Su
+last_name: Yanda
 
 # Status emoji
-status:
-  icon: ☕️
+status:Free
+  icon: 🎧📸🛹💅💄
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: XMU
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -66,7 +66,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.7/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -145,7 +145,7 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
+    percent: 100
   - name: Portuguese
     percent: 25
 
